@@ -8,13 +8,13 @@ const App = () => {
       <div className = 'name'>matt korczynski</div>
       <div className = 'cloud'>
       </div>
-      <a href = {'http://188.210.223.71:8050/'}>
+      <a href = {'http://1mattkorczynski.eu1:8052/'}>
         <div className = 'links'>mine master - flp</div>
       </a>
-      <a href = {'http://188.210.223.71:8051/'}>
+      <a href = {'http://mattkorczynski.eu:8051/'}>
         <div className = 'links_faro'>betri deildin </div>
       </a>
-      <a href = {'http://188.210.223.71:8051/'}>
+      <a href = {'http://mattkorczynski.eu:8050/'}>
         <div className = 'links_green_house'>greenhouse 71 SE </div>
       </a>
     </div>
