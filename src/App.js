@@ -9,10 +9,13 @@ const App = () => {
       <div className = 'cloud'>
       </div>
       <a href = {'http://188.210.223.71:8050/'}>
-        <div className = 'links'>m m - data analysis</div>
+        <div className = 'links'>mine master - flp</div>
       </a>
       <a href = {'http://188.210.223.71:8051/'}>
         <div className = 'links_faro'>betri deildin </div>
+      </a>
+      <a href = {'http://188.210.223.71:8051/'}>
+        <div className = 'links_green_house'>greenhouse 71 SE </div>
       </a>
     </div>
   )

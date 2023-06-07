@@ -65,6 +65,7 @@ body, html {
 
     color: #FFFFFF;
   }
+  
   .links_faro {
     /* faroese football */
 
@@ -73,6 +74,26 @@ body, html {
     height: 36px;
     left: 201px;
     top: 339px;
+
+    font-family: 'Courier';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-transform: lowercase;
+
+    color: #FFFFFF;
+
+
+  }
+  .links_green_house {
+    /* green house */
+
+    position: absolute;
+    width: 281px;
+    height: 36px;
+    left: 201px;
+    top: 379px;
 
     font-family: 'Courier';
     font-style: normal;
