@@ -8,7 +8,7 @@ const App = () => {
       <div className = 'name'>matt korczynski</div>
       <div className = 'cloud'>
       </div>
-      <a href = {'http://1mattkorczynski.eu1:8052/'}>
+      <a href = {'http://mattkorczynski.eu:8052/'}>
         <div className = 'links'>mine master - flp</div>
       </a>
       <a href = {'http://mattkorczynski.eu:8051/'}>
