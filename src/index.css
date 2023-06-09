@@ -106,3 +106,25 @@ body, html {
 
 
   }
+  .github_logo {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 105px;
+    top: 35px;
+
+    background: url(github-mark.png);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.linkedin_logo {
+  position: absolute;
+  width: 51px;
+  height: 51px;
+  left: 40px;
+  top: 35px;
+  
+  background: url(49408.png);
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  filter: blur(2px);
+}

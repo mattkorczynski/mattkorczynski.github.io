@@ -5,6 +5,8 @@ import './index.css'
 const App = () => {
   return (
     <div className = 'bg'>
+      <div className = 'linkedin_logo'></div>
+      <div className = 'github_logo'></div>
       <div className = 'name'>matt korczynski</div>
       <div className = 'cloud'>
       </div>
