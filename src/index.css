@@ -4,6 +4,14 @@ body, html {
     background-color: #4C3432;
 
   }
+  .Select-input > input {
+    color: transparent;
+    text-shadow: 0 0 0 #2196f3;
+   }
+  
+  .Select-input > input:focus {
+   outline: none;
+  }
   .bg {
     background-image: url('./IMG_0532_rs.png');
     position: relative;
