@@ -5,8 +5,13 @@ import './index.css'
 const App = () => {
   return (
     <div className = 'bg'>
-      <div className = 'linkedin_logo'></div>
-      <div className = 'github_logo'></div>
+      <a href ={"https://www.linkedin.com/in/mateusz-korczynski-17255a57/"}>
+        <div className = 'linkedin_logo'></div>
+      </a>
+      <a href ={"https://github.com/mattkorczynski"}>
+        <div className = 'github_logo'></div>
+      </a>
+
       <div className = 'name'>matt korczynski</div>
       <div className = 'cloud'>
       </div>
